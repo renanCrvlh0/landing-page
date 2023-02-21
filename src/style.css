@@ -14,20 +14,21 @@
 }
 
 .fonte-titulo {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Shantell Sans', cursive;
 }
 
 .cor-especial {
-    color: darkred!important;
+    color: rgba(35, 222, 41, 0.786)!important;
 }
 
 .botao-cor-especial {
-    background-color: darkred;
+    background-color: rgba(35, 222, 41, 0.786);
     color: white;
 }
 
 .borda-cor-especial {
-    border: 1px solid darkred;
+    border: 3px solid rgba(35, 222, 41, 0.786);
+    border-radius: 10px;
 }
 
 .card-posicao-imagem {
